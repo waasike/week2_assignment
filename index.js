@@ -28,5 +28,8 @@ if (answer= "left"){
 else if (answer= "right"){
     console.log("Sorry, you were eaten by a crocodile in the pool and your sister hates you!")
 }
+else {
+    console.log("Enter a valid input")
+}
 
 // solution for q2 will be better once I learn how to get user input!
